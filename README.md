@@ -2,7 +2,7 @@
 
 ## DESCRIPTION
 
-A software product that allows you to display text on a 1602 or 1602a LCD I2C display. Data transfer is performed using the I2C interface. The master device is the STM32F411E DISCO.
+Application that allows you to display text on a 1602 or 1602a LCD I2C display. Data transfer is performed using the I2C interface. The master device is the STM32F411E DISCO.
 
 ## Hardware requirements
 + LCD1602 I2C or LCD1602A I2C
